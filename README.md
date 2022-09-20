@@ -1,2 +1,0 @@
-# Krivulin
-PKr Test
